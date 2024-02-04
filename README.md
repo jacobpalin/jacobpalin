@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hello, I'm Jacob Palin <br/><a href="https://github.com/jacobpalin">Game Developer</a></h1>
 
-<!--
-**jacobpalin/jacobpalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Games</b>
+  - [Merry Mini Christmas (Game Jam Game)](https://github.com/jacobpalin/Game-Jam-12-18-2023)
+  - [Character Editor (Senior Special Topic)](https://github.com/jacobpalin/Special-Topic)
+  - [The Seer's Sanctum (Individual VR Game)](https://github.com/jacobpalin/GIMM-VR-Game)
+  - [Quantum Entanglement for Dummies by Dummies(Interactive Comic Game)](https://github.com/jacobpalin/GIMM-250-Final)
+  - [Bob (First Game)](https://github.com/jacobpalin/My-First-Game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+- <b>[linkedin](https://linkedin.com/in/jacobpalin)</b>
+- <b>[youtube](https://www.youtube.com/@JacobPalin)</b>
